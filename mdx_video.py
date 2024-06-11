@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from xml import etree
+from xml.etree import ElementTree as etree
 
 import markdown
 

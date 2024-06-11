@@ -1,3 +1,8 @@
+Note on the fork
+----------------
+The original project seems abandoned, the fork at `dtantsur/mdx-video` adds
+support for python-markdown 3+ and Python 3.12+.
+
 Usage
 -------
 ```python
